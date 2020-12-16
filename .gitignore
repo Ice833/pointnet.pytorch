@@ -6,5 +6,5 @@ shapenetcore_partanno_segmentation_benchmark_v0/
 *.so
 .idea*
 cls/
-seg/
+#seg/ model can be push to repo
 *.egg-info/
